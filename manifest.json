@@ -4,7 +4,9 @@
   "version": "1.0.0",
   "description": "Apply dark mode to any website with smart color inversion.",
   "permissions": [
-    "storage"
+    "storage",
+    "scripting",
+    "activeTab"
   ],
   "action": {
     "default_popup": "popup.html",
